@@ -1,6 +1,6 @@
 // 0xAAAAAA and 0x55555 are nubers with all even and all odd bits 1 respectively
 // even and odd are seen after counting with zero index
-
+// 0x is prefix for hexadecimal numbers.
 
 unsigned int swapBits(unsigned int n)
 {
